@@ -1,0 +1,12 @@
+C:\Users\Natester\source\repos\CSCI463-TermProject\bin\Release\CSCI463-TermProject.exe.config
+C:\Users\Natester\source\repos\CSCI463-TermProject\bin\Release\CSCI463-TermProject.exe
+C:\Users\Natester\source\repos\CSCI463-TermProject\bin\Release\CSCI463-TermProject.pdb
+C:\Users\Natester\source\repos\CSCI463-TermProject\obj\Release\CSCI463-TermProject.csprojAssemblyReference.cache
+C:\Users\Natester\source\repos\CSCI463-TermProject\obj\Release\CSCI463_TermProject.Form1.resources
+C:\Users\Natester\source\repos\CSCI463-TermProject\obj\Release\CSCI463_TermProject.Form2.resources
+C:\Users\Natester\source\repos\CSCI463-TermProject\obj\Release\CSCI463_TermProject.Form3.resources
+C:\Users\Natester\source\repos\CSCI463-TermProject\obj\Release\CSCI463_TermProject.Properties.Resources.resources
+C:\Users\Natester\source\repos\CSCI463-TermProject\obj\Release\CSCI463-TermProject.csproj.GenerateResource.cache
+C:\Users\Natester\source\repos\CSCI463-TermProject\obj\Release\CSCI463-TermProject.csproj.CoreCompileInputs.cache
+C:\Users\Natester\source\repos\CSCI463-TermProject\obj\Release\CSCI463-TermProject.exe
+C:\Users\Natester\source\repos\CSCI463-TermProject\obj\Release\CSCI463-TermProject.pdb
